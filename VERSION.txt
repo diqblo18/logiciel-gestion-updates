@@ -1,5 +1,5 @@
 LOGICIEL DE GESTION COMMERCIALE 
-Version: 15-11-2025 
+Version: 16-11-2025 
 Date: 15/11/2025 
 Derniere mise a jour: 15/11/2025 12:48:05.73 
  
@@ -7,4 +7,5 @@ Changelog:
 Description des modifications : 
 first deploy 
  
+
 
