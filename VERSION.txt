@@ -1,7 +1,0 @@
-LOGICIEL DE GESTION COMMERCIALE 
-Version: 9 
-Date: 17/01/2026 
-Derniere mise a jour: 17/01/2026 22:21:33.60 
- 
-Changelog: 
- 
