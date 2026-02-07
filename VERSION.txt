@@ -1,7 +1,7 @@
 LOGICIEL DE GESTION COMMERCIALE 
-Version: 28 
-Date: 05/02/2026 
-Derniere mise a jour: 05/02/2026 13:47:04,30 
+Version: 29 
+Date: 07/02/2026 
+Derniere mise a jour: 07/02/2026 22:10:53,69 
  
 Changelog: 
  
